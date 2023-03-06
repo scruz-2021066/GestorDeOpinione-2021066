@@ -4,8 +4,6 @@ ESTE PROYECTO TAL Y COMO ESTA NO FUNCIONA, SE REQUIRE QUE LO
 DESCARGUE DE FORMA LOCAL DARLE SOLUCIÓN EN RELACIÓN A LO VISTO
 DURANTE EL BIMESTRE.
 
-NOTA: PROYECTO FUNCIONANDO, ERRORES SOLUCIONADOS
-
 ## Objetivos: Que no lanze errores de compilación y que funcionen las peticiones
 
 Al darle solución y testearlo presentar al profesor encargado.

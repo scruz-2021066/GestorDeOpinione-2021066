@@ -9,7 +9,6 @@ DURANTE EL BIMESTRE.
 Al darle solución y testearlo presentar al profesor encargado.
 
 
-
 # Información General del proyecto
 
 Backend de calendario desarrollado en NodeJS
